@@ -1,0 +1,82 @@
+1. Write a Pandas program to create and display a one-dimensional array-like object containing an array of data.
+
+2. Write a Pandas program to convert a Panda module Series to Python list and it’s type.
+
+3. Write a Pandas program to add, subtract, multiple and divide two Pandas Series.
+   Sample Series: [2, 4, 6, 8, 10], [1, 3, 5, 7, 9]
+
+4. Write a Pandas program to convert a dictionary to a Pandas series.
+
+5. Write a Pandas program to convert a NumPy array to a Pandas series.
+
+6. Write a Pandas program to change the data type of given a column or a Series.
+
+7. Write a Pandas program to convert a given Series to an array.
+
+8. Write a Pandas program to create a dataframe from a dictionary and display it.
+
+9. i) Create a list of empids and names (10 employees).
+   ii) Convert list into Series.
+   iii) Print type of Series.
+   iv) Convert Series into DataFrame.
+   v) a) Display all records.
+      b) Display first five records.
+      c) Display last five records.
+      d) Display first two and last two records.
+      e) Display name of 5th employee.
+      f) Display record of 4th employee.
+   vi) Save the record in csv file (MyRecord.csv)
+
+10. i) Read the MyRecord.csv file.
+    ii) Create a new column Salary.
+
+11. Refer the dataset "Advertising.csv" and perform following tasks.
+i) Read the dataset "Advertising.csv" in data frame.
+
+ii) Print first five records of dataset.
+
+iii) print last five records from dataset.
+
+iv) display the columns inside the dataset.
+
+v) display last three records from dataset.
+
+vi) display the information about the dataset and analyse the data.
+
+vii) display types of each columns.
+ 
+viii) check for null values in the dataset and display the sum of null values inside the column.
+
+ix) drop a column 'radio' from a dataset and display first ten records.
+
+x) increase the sales by 10% and add a new column "updated_sales" in dataframe.
+
+xi) display shape of data.
+
+xii) Find out maximum,minimum,mean,median,standard deviation value of each column.
+ 
+xiii) describe the dataset.
+
+12. Refer the dataset "Salaries.csv" and perform following tasks.
+i) Read the dataset in dataframe.
+
+ii) display first five records.
+
+iii) display first ten records.
+
+iv) display last five records.
+
+v) display last ten records.
+
+vi) display the columns inside the dataset.
+
+vii) display shape of data.
+
+viii) describe the dataset.
+
+ix) display the information about the dataset and analyse the data.
+
+x) display types of each columns.
+
+xi) Find out maximum,minimum,mean,median,standard deviation value of each column.
+
